@@ -1,0 +1,20 @@
+<HTML>
+<head>
+		<Title> Kenneth's Shop </Title>
+	<style>
+	
+	<style>
+	<script>
+	
+</script>
+	</head>
+	<body>
+	<div>
+		<h1> computer </h1>
+		<img src="Pc.jpg"><br>
+		<span>$250.00</span>
+		</p>
+		
+	</div>
+	</body>
+	</html>
