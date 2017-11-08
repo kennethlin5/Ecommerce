@@ -1,11 +1,11 @@
-<HTML>
+<HTML>!Doctype
 <head>
-		<Title> Kenneth's Shop </Title>
+	<Title> Kenneth's Shop </Title>
 	<style>
-	<background=Yellow
+	Background=Yellow
 	<style>
 	<script>
-	<h1> computer </h1>
+		<h1> computer </h1>
 		<img src="Pc.jpg"><br>
 		<span>$250.00</span>
 		</p>
