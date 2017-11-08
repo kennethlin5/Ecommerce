@@ -5,12 +5,7 @@
 	<background=Yellow
 	<style>
 	<script>
-	
-</script>
-	</head>
-	<body>
-	<div>
-		<h1> computer </h1>
+	<h1> computer </h1>
 		<img src="Pc.jpg"><br>
 		<span>$250.00</span>
 		</p>
@@ -18,6 +13,11 @@
 		<img src="Nintendo Switch.jpg"><br>
 		<span>$400.00</span>
 		</p>
+</script>
+	</head>
+	<body>
+	<div>
+	
 	</div>
 	</body>
 	</html>
