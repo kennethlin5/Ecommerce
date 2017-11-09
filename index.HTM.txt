@@ -13,6 +13,10 @@
 		<img src="Nintendo Switch.jpg"><br>
 		<span>$400.00</span>
 		</p>
+		<h3> Xbox-360</h3>
+		<img src="Xbox-360.jpg"><br>
+		<span>$500.00</span.
+		</p>
 </script>
 	</head>
 	<body>
